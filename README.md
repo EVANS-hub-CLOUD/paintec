@@ -1,0 +1,2 @@
+# paintec
+IT GURU
